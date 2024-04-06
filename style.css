@@ -33,7 +33,7 @@
     height: 100vh;
     position: fixed;
     left: -300px;
-    background-color: #ffffff0a;
+    background-color: #1a1818aa;
     box-shadow: 0 0 8px rgba(255,255,255,0.2);
     transition: left 300ms ease-in-out 0s;
     overflow-y: auto;
@@ -52,7 +52,7 @@
     left: 0px; */
     text-decoration: none;
     padding: 10px 33px;
-    box-shadow: 0 4px 4px #e6e6e6a0;
+    box-shadow: 0 4px 8px #302c2ca0;
     border-radius: 0 0 7px 7px;
     width: 280px;
     font-weight: 500;
