@@ -166,5 +166,8 @@
 {
     .main_box{
         background-image: url("dslrPortraitUscaled.jpg");
-    }   
+    } 
+    .sidebar_menu{
+        background-color:#1a1818aa;
+    }  
 }
