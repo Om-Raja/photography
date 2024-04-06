@@ -7,7 +7,7 @@
 }
 
 .main_box{
-    background-image: url("camera.jpg");
+    background-image: url("landscapeBackground2.png");
     background-size: cover;
     height: 100vh;
 }
@@ -165,6 +165,6 @@
 @media(max-width: 500px)
 {
     .main_box{
-        background-image: url("dslrPortrait.jpg");
+        background-image: url("dslrPortraitUscaled.jpg");
     }   
 }
