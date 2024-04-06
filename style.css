@@ -160,3 +160,11 @@
 .btn_two i:hover{
     transform: scale(1.06);
 }
+
+/* adding a portrait background image for phone screen */
+@media(max-width: 500px)
+{
+    .main_box{
+        background-image: url("dslrPortrait.jpg");
+    }   
+}
